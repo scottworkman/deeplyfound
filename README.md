@@ -13,7 +13,7 @@ publication:
 @inproceedings{workman2015wide,
     author={Scott Workman and Richard Souvenir and Nathan Jacobs},
     title={Wide-Area Image Geolocalization with Aerial Reference Imagery},
-    booktitle = {{IEEE International Conference on Computer Vision (ICCV)}},
+    booktitle={{IEEE International Conference on Computer Vision (ICCV)}},
     year=2015,
 }
 ```
@@ -22,7 +22,7 @@ publication:
 
 Download the model weights:
 
-```cd models; ./download_weights.sh```
+```cd models; ./download_models.sh```
 
 Run the example:
 
