@@ -5,7 +5,7 @@
 
 echo "Downloading..."
 
-wget http://amos.csr.uky.edu/modelzoo/deeplyfound/deeplyfound.zip
+wget https://wustl.box.com/shared/static/s3wbmwqelqe6po8qy4dm1sevhyht9xb7.zip 
 
 echo "Unzipping..."
 
